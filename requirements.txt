@@ -4,10 +4,4 @@ python-dotenv
 SpeechRecognition
 streamlit-mic-recorder
 gTTS
-sentence-transformersstreamlit
-requests
-python-dotenv
-SpeechRecognition
-streamlit-mic-recorder
-gTTS
 sentence-transformers
