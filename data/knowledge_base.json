@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "category": "Soil Health",
+    "language": "English",
+    "question": "What does a Soil Health Card tell a farmer?",
+    "answer": "A Soil Health Card reports the nutrient status of a field and gives crop-based fertilizer and soil-amendment recommendations. It covers nutrients such as nitrogen, phosphorus, potassium, sulphur and micronutrients, along with soil indicators such as pH, electrical conductivity and organic carbon.",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 2,
+    "category": "Soil Health",
+    "language": "Hindi",
+    "question": "मृदा स्वास्थ्य कार्ड किसान को क्या जानकारी देता है?",
+    "answer": "मृदा स्वास्थ्य कार्ड खेत की मिट्टी में पोषक तत्वों की स्थिति बताता है और फसल के अनुसार उर्वरक तथा मिट्टी सुधार की सलाह देता है। इसमें नाइट्रोजन, फॉस्फोरस, पोटैशियम, सल्फर, सूक्ष्म पोषक तत्व और pH, विद्युत चालकता तथा जैविक कार्बन जैसे मापदंड शामिल होते हैं।",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 3,
+    "category": "Soil Health",
+    "language": "Marathi",
+    "question": "मृदा आरोग्य पत्रिका शेतकऱ्याला कोणती माहिती देते?",
+    "answer": "मृदा आरोग्य पत्रिका शेतातील मातीतील पोषकद्रव्यांची स्थिती सांगते आणि पिकानुसार खत व माती सुधारण्याबाबत मार्गदर्शन करते. यात नत्र, स्फुरद, पालाश, गंधक, सूक्ष्म अन्नद्रव्ये तसेच pH, विद्युत चालकता आणि सेंद्रिय कर्ब यांसारखे घटक असतात.",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 4,
+    "category": "Soil Health",
+    "language": "English",
+    "question": "When should soil samples generally be collected?",
+    "answer": "The Soil Health Card FAQ says samples are generally collected after harvesting of the Rabi and Kharif crops, when no crop is standing. Sampling should be done by a trained person and sent for laboratory analysis.",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 5,
+    "category": "Soil Health",
+    "language": "Hindi",
+    "question": "मिट्टी के नमूने सामान्यतः कब लेने चाहिए?",
+    "answer": "मृदा स्वास्थ्य कार्ड की जानकारी के अनुसार, मिट्टी के नमूने सामान्यतः रबी और खरीफ फसल की कटाई के बाद, जब खेत में खड़ी फसल न हो, तब लिए जाते हैं। नमूना प्रशिक्षित व्यक्ति द्वारा लेकर प्रयोगशाला में जांच के लिए भेजना चाहिए।",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 6,
+    "category": "Soil Health",
+    "language": "Marathi",
+    "question": "मातीचे नमुने साधारणपणे कधी घ्यावेत?",
+    "answer": "मृदा आरोग्य पत्रिकेच्या माहितीनुसार, रब्बी आणि खरीप पिकांची कापणी झाल्यानंतर आणि शेतात उभे पीक नसताना मातीचे नमुने साधारणपणे घ्यावेत. नमुना प्रशिक्षित व्यक्तीने घेऊन प्रयोगशाळेत तपासणीसाठी पाठवावा.",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 7,
+    "category": "Soil Health",
+    "language": "English",
+    "question": "Should fertilizer quantities be decided without a soil test?",
+    "answer": "Avoid choosing fertilizer quantities only by guesswork. Use the soil-test results and the crop-specific recommendation on the Soil Health Card; requirements vary with soil nutrient status and crop.",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 8,
+    "category": "Soil Health",
+    "language": "Hindi",
+    "question": "क्या मिट्टी की जांच के बिना उर्वरक की मात्रा तय करनी चाहिए?",
+    "answer": "केवल अनुमान के आधार पर उर्वरक की मात्रा तय न करें। मिट्टी की जांच के परिणाम और मृदा स्वास्थ्य कार्ड में दी गई फसल-विशिष्ट सलाह का पालन करें। उर्वरक की आवश्यकता मिट्टी में पोषक तत्वों और फसल के अनुसार बदलती है।",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 9,
+    "category": "Soil Health",
+    "language": "Marathi",
+    "question": "मातीची तपासणी न करता खताचे प्रमाण ठरवावे का?",
+    "answer": "केवळ अंदाजाने खताचे प्रमाण ठरवू नका. माती तपासणीचे निष्कर्ष आणि मृदा आरोग्य पत्रिकेतील पीकनिहाय शिफारस वापरा. खताची गरज मातीतील पोषकद्रव्ये आणि पिकानुसार बदलते.",
+    "source": "Soil Health Card FAQ",
+    "source_url": "https://soilhealth.dac.gov.in/files/FAQ_Final_English.pdf"
+  },
+  {
+    "id": 10,
+    "category": "Wheat",
+    "language": "English",
+    "question": "What are important irrigation stages for wheat?",
+    "answer": "Tamil Nadu Agricultural University lists crown-root initiation and flowering as especially critical stages for wheat irrigation. Its schedule also includes active tillering and grain filling. Actual irrigation depends on soil type and rainfall; avoid water stagnation.",
+    "source": "TNAU Wheat - After Cultivation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_aftercultivation.html"
+  },
+  {
+    "id": 11,
+    "category": "Wheat",
+    "language": "Hindi",
+    "question": "गेहूं में सिंचाई की महत्वपूर्ण अवस्थाएं कौन-सी हैं?",
+    "answer": "तमिलनाडु कृषि विश्वविद्यालय के अनुसार, गेहूं में क्राउन रूट इनिशिएशन और फूल आने की अवस्था सिंचाई के लिए विशेष रूप से महत्वपूर्ण हैं। सक्रिय कल्ले निकलने और दाना भरने की अवस्था भी ध्यान देने योग्य है। वास्तविक सिंचाई मिट्टी और वर्षा पर निर्भर करती है; खेत में पानी जमा न होने दें।",
+    "source": "TNAU Wheat - After Cultivation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_aftercultivation.html"
+  },
+  {
+    "id": 12,
+    "category": "Wheat",
+    "language": "Marathi",
+    "question": "गव्हामध्ये सिंचनाच्या महत्त्वाच्या अवस्था कोणत्या?",
+    "answer": "तामिळनाडू कृषी विद्यापीठाच्या माहितीनुसार, गव्हामध्ये क्राउन रूट इनिशिएशन आणि फुलोरा या अवस्था सिंचनासाठी विशेष महत्त्वाच्या आहेत. सक्रिय फुटवे आणि दाणे भरण्याच्या अवस्थेकडेही लक्ष द्यावे. प्रत्यक्ष सिंचन माती आणि पावसावर अवलंबून असते; शेतात पाणी साचू देऊ नका.",
+    "source": "TNAU Wheat - After Cultivation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_aftercultivation.html"
+  },
+  {
+    "id": 13,
+    "category": "Wheat",
+    "language": "English",
+    "question": "How should fertilizer be selected for wheat?",
+    "answer": "Prefer fertilizer recommendations based on a soil test. TNAU's wheat guidance explicitly advises applying NPK according to soil-test recommendations as far as possible. Do not copy a blanket dose without checking local recommendations.",
+    "source": "TNAU Wheat - Field Preparation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_fieldpreparation.html"
+  },
+  {
+    "id": 14,
+    "category": "Wheat",
+    "language": "Hindi",
+    "question": "गेहूं के लिए उर्वरक कैसे चुनें?",
+    "answer": "मिट्टी की जांच के आधार पर उर्वरक चुनना बेहतर है। तमिलनाडु कृषि विश्वविद्यालय की गेहूं संबंधी सलाह भी यथासंभव मिट्टी जांच के अनुसार NPK देने को कहती है। स्थानीय सलाह की जांच किए बिना सामान्य मात्रा न अपनाएं।",
+    "source": "TNAU Wheat - Field Preparation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_fieldpreparation.html"
+  },
+  {
+    "id": 15,
+    "category": "Wheat",
+    "language": "Marathi",
+    "question": "गव्हासाठी खत कसे निवडावे?",
+    "answer": "माती परीक्षणाच्या आधारे खत निवडणे योग्य आहे. तामिळनाडू कृषी विद्यापीठाच्या गहू मार्गदर्शनात शक्यतो माती परीक्षणानुसार NPK देण्याचा सल्ला आहे. स्थानिक शिफारस तपासल्याशिवाय सर्वसाधारण मात्रा वापरू नका.",
+    "source": "TNAU Wheat - Field Preparation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_fieldpreparation.html"
+  },
+  {
+    "id": 16,
+    "category": "Rice",
+    "language": "English",
+    "question": "What helps establish a healthy rice crop?",
+    "answer": "TNAU's rice guidance highlights suitable season- and location-specific varieties, healthy seedlings, proper field levelling, shallow planting, balanced fertilizer use, water management and regular pest and disease monitoring.",
+    "source": "TNAU Rice Expert System FAQ",
+    "source_url": "https://agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+  },
+  {
+    "id": 17,
+    "category": "Rice",
+    "language": "Hindi",
+    "question": "धान की स्वस्थ फसल स्थापित करने में क्या मदद करता है?",
+    "answer": "तमिलनाडु कृषि विश्वविद्यालय के धान संबंधी मार्गदर्शन में मौसम और स्थान के अनुकूल किस्में, स्वस्थ पौध, खेत का समतलीकरण, उचित गहराई पर रोपाई, संतुलित उर्वरक, जल प्रबंधन तथा कीट और रोगों की नियमित निगरानी पर जोर दिया गया है।",
+    "source": "TNAU Rice Expert System FAQ",
+    "source_url": "https://agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+  },
+  {
+    "id": 18,
+    "category": "Rice",
+    "language": "Marathi",
+    "question": "भाताचे पीक चांगले स्थापन होण्यासाठी काय मदत करते?",
+    "answer": "तामिळनाडू कृषी विद्यापीठाच्या भात मार्गदर्शनात हंगाम व स्थानाला योग्य वाण, निरोगी रोपे, शेताचे समतलीकरण, योग्य खोलीवर लागवड, संतुलित खत वापर, पाणी व्यवस्थापन आणि कीड-रोगांचे नियमित निरीक्षण यावर भर दिला आहे.",
+    "source": "TNAU Rice Expert System FAQ",
+    "source_url": "https://agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+  },
+  {
+    "id": 19,
+    "category": "Rice",
+    "language": "English",
+    "question": "Why should rice fields be monitored for pests and diseases?",
+    "answer": "TNAU's integrated pest-management guidance recommends regular monitoring and cultural practices such as healthy seed, timely planting, suitable varieties, balanced nutrients and proper water management. Excess nitrogen can increase vulnerability to some rice pests and diseases.",
+    "source": "TNAU Rice Integrated Pest Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_pdf/rice.pdf"
+  },
+  {
+    "id": 20,
+    "category": "Rice",
+    "language": "Hindi",
+    "question": "धान के खेत में कीट और रोगों की निगरानी क्यों करनी चाहिए?",
+    "answer": "तमिलनाडु कृषि विश्वविद्यालय की एकीकृत कीट प्रबंधन सलाह स्वस्थ बीज, समय पर बुवाई, उपयुक्त किस्म, संतुलित पोषक तत्व और उचित जल प्रबंधन जैसे उपायों के साथ नियमित निगरानी की सलाह देती है। नाइट्रोजन का अत्यधिक उपयोग कुछ कीटों और रोगों के प्रति संवेदनशीलता बढ़ा सकता है।",
+    "source": "TNAU Rice Integrated Pest Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_pdf/rice.pdf"
+  },
+  {
+    "id": 21,
+    "category": "Rice",
+    "language": "Marathi",
+    "question": "भाताच्या शेतात कीड आणि रोगांचे निरीक्षण का करावे?",
+    "answer": "तामिळनाडू कृषी विद्यापीठाच्या एकात्मिक कीड व्यवस्थापन मार्गदर्शनात निरोगी बियाणे, वेळेवर पेरणी, योग्य वाण, संतुलित अन्नद्रव्ये आणि योग्य पाणी व्यवस्थापनासह नियमित निरीक्षण सुचवले आहे. नत्राचा अतिरेक काही किडी व रोगांचा धोका वाढवू शकतो.",
+    "source": "TNAU Rice Integrated Pest Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_pdf/rice.pdf"
+  },
+  {
+    "id": 22,
+    "category": "Soybean",
+    "language": "English",
+    "question": "Why is seed inoculation used in soybean?",
+    "answer": "TNAU describes seed treatment with suitable Rhizobium culture and phosphobacteria as a soybean biofertilizer practice. Use only locally recommended, quality inoculants and follow the product label and local agricultural university or KVK advice.",
+    "source": "TNAU Soybean Nutrient Management",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_nutrientmgt_soybean.html"
+  },
+  {
+    "id": 23,
+    "category": "Soybean",
+    "language": "Hindi",
+    "question": "सोयाबीन में बीज उपचार या जैव उर्वरक का उपयोग क्यों किया जाता है?",
+    "answer": "तमिलनाडु कृषि विश्वविद्यालय सोयाबीन में उपयुक्त राइजोबियम कल्चर और फॉस्फोबैक्टीरिया से बीज उपचार को जैव उर्वरक की एक विधि बताता है। केवल स्थानीय रूप से अनुशंसित गुणवत्तापूर्ण उत्पाद लें और लेबल तथा कृषि विश्वविद्यालय या KVK की सलाह का पालन करें।",
+    "source": "TNAU Soybean Nutrient Management",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_nutrientmgt_soybean.html"
+  },
+  {
+    "id": 24,
+    "category": "Soybean",
+    "language": "Marathi",
+    "question": "सोयाबीनमध्ये बियाणे प्रक्रिया किंवा जैवखत का वापरतात?",
+    "answer": "तामिळनाडू कृषी विद्यापीठ सोयाबीनमध्ये योग्य रायझोबियम कल्चर आणि फॉस्फोबॅक्टेरियाद्वारे बियाणे प्रक्रिया करण्याची जैवखत पद्धत सांगते. स्थानिक शिफारशीनुसार दर्जेदार उत्पादने वापरा आणि लेबल तसेच कृषी विद्यापीठ किंवा KVK च्या सूचनांचे पालन करा.",
+    "source": "TNAU Soybean Nutrient Management",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_nutrientmgt_soybean.html"
+  },
+  {
+    "id": 25,
+    "category": "Water Management",
+    "language": "English",
+    "question": "Why should farmers avoid waterlogging?",
+    "answer": "Waterlogging can harm crop establishment and root function. TNAU wheat guidance specifically advises avoiding water stagnation during germination. Manage drainage according to crop, soil and field conditions.",
+    "source": "TNAU Wheat - After Cultivation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_aftercultivation.html"
+  },
+  {
+    "id": 26,
+    "category": "Water Management",
+    "language": "Hindi",
+    "question": "किसानों को खेत में जलभराव से क्यों बचना चाहिए?",
+    "answer": "जलभराव से फसल की स्थापना और जड़ों की कार्यक्षमता प्रभावित हो सकती है। तमिलनाडु कृषि विश्वविद्यालय का गेहूं संबंधी मार्गदर्शन अंकुरण के समय पानी जमा न होने देने की सलाह देता है। फसल, मिट्टी और खेत की स्थिति के अनुसार जल निकास रखें।",
+    "source": "TNAU Wheat - After Cultivation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_aftercultivation.html"
+  },
+  {
+    "id": 27,
+    "category": "Water Management",
+    "language": "Marathi",
+    "question": "शेतकऱ्यांनी शेतात पाणी साचू का देऊ नये?",
+    "answer": "पाणी साचल्यास पिकाची उगवण आणि मुळांचे कार्य प्रभावित होऊ शकते. तामिळनाडू कृषी विद्यापीठाच्या गहू मार्गदर्शनात उगवणीच्या वेळी पाणी साचू न देण्याचा सल्ला आहे. पीक, माती आणि शेताच्या स्थितीनुसार निचरा व्यवस्था ठेवा.",
+    "source": "TNAU Wheat - After Cultivation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropproduction_wheat_aftercultivation.html"
+  },
+  {
+    "id": 28,
+    "category": "Water Management",
+    "language": "English",
+    "question": "How much water does a crop need?",
+    "answer": "Water needs differ by crop, crop duration, soil, climate and irrigation method. TNAU publishes indicative crop water-requirement information; use local crop and irrigation recommendations rather than applying one amount to every field.",
+    "source": "TNAU Water Requirements of Agricultural Crops",
+    "source_url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_waterrequirements.html"
+  },
+  {
+    "id": 29,
+    "category": "Water Management",
+    "language": "Hindi",
+    "question": "किसी फसल को कितने पानी की आवश्यकता होती है?",
+    "answer": "पानी की आवश्यकता फसल, उसकी अवधि, मिट्टी, जलवायु और सिंचाई पद्धति के अनुसार बदलती है। तमिलनाडु कृषि विश्वविद्यालय फसलों की जल आवश्यकता संबंधी संकेतात्मक जानकारी देता है। हर खेत में एक जैसी मात्रा लागू करने के बजाय स्थानीय सलाह अपनाएं।",
+    "source": "TNAU Water Requirements of Agricultural Crops",
+    "source_url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_waterrequirements.html"
+  },
+  {
+    "id": 30,
+    "category": "Water Management",
+    "language": "Marathi",
+    "question": "पिकाला किती पाणी लागते?",
+    "answer": "पाण्याची गरज पीक, पिकाचा कालावधी, माती, हवामान आणि सिंचन पद्धतीनुसार बदलते. तामिळनाडू कृषी विद्यापीठ पिकांच्या पाण्याच्या गरजेची मार्गदर्शक माहिती देते. प्रत्येक शेतात समान प्रमाण वापरण्याऐवजी स्थानिक शिफारस घ्या.",
+    "source": "TNAU Water Requirements of Agricultural Crops",
+    "source_url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_waterrequirements.html"
+  },
+  {
+    "id": 31,
+    "category": "Integrated Pest Management",
+    "language": "English",
+    "question": "What is integrated pest management?",
+    "answer": "Integrated pest management combines preventive and cultural practices, monitoring, suitable resistant varieties, healthy seed and need-based control measures. Identify the pest correctly and follow current local recommendations before using any pesticide.",
+    "source": "TNAU Rice Integrated Pest Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_pdf/rice.pdf"
+  },
+  {
+    "id": 32,
+    "category": "Integrated Pest Management",
+    "language": "Hindi",
+    "question": "एकीकृत कीट प्रबंधन क्या है?",
+    "answer": "एकीकृत कीट प्रबंधन में रोकथाम और खेती संबंधी उपाय, नियमित निगरानी, उपयुक्त प्रतिरोधी किस्में, स्वस्थ बीज और आवश्यकता के अनुसार नियंत्रण उपाय शामिल होते हैं। कीट की सही पहचान करें और कीटनाशक उपयोग से पहले वर्तमान स्थानीय सलाह लें।",
+    "source": "TNAU Rice Integrated Pest Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_pdf/rice.pdf"
+  },
+  {
+    "id": 33,
+    "category": "Integrated Pest Management",
+    "language": "Marathi",
+    "question": "एकात्मिक कीड व्यवस्थापन म्हणजे काय?",
+    "answer": "एकात्मिक कीड व्यवस्थापनात प्रतिबंधात्मक व शेतीविषयक उपाय, नियमित निरीक्षण, योग्य प्रतिकारक्षम वाण, निरोगी बियाणे आणि गरजेनुसार नियंत्रण उपाय यांचा समावेश होतो. कीड अचूक ओळखा आणि कीटकनाशक वापरण्यापूर्वी अद्ययावत स्थानिक सल्ला घ्या.",
+    "source": "TNAU Rice Integrated Pest Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_pdf/rice.pdf"
+  },
+  {
+    "id": 34,
+    "category": "Crop Rotation",
+    "language": "English",
+    "question": "Why is crop rotation useful?",
+    "answer": "TNAU recommends planning crop sequences using principles such as alternating legume and non-legume crops and following exhaustive crops with restorative crops. The suitable sequence depends on local soil, water, season and pest pressure.",
+    "source": "TNAU Crop Selection and Rotation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropselect.html"
+  },
+  {
+    "id": 35,
+    "category": "Crop Rotation",
+    "language": "Hindi",
+    "question": "फसल चक्र उपयोगी क्यों है?",
+    "answer": "तमिलनाडु कृषि विश्वविद्यालय फसल क्रम तय करते समय दलहनी और गैर-दलहनी फसलों को बदल-बदलकर लगाने तथा अधिक पोषक तत्व लेने वाली फसल के बाद मिट्टी सुधारने वाली फसल लगाने जैसे सिद्धांत बताता है। सही क्रम स्थानीय मिट्टी, पानी, मौसम और कीट दबाव पर निर्भर करता है।",
+    "source": "TNAU Crop Selection and Rotation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropselect.html"
+  },
+  {
+    "id": 36,
+    "category": "Crop Rotation",
+    "language": "Marathi",
+    "question": "पीक फेरपालट उपयुक्त का आहे?",
+    "answer": "तामिळनाडू कृषी विद्यापीठ पीक क्रम ठरवताना कडधान्य आणि बिगर-कडधान्य पिकांची अदलाबदल तसेच जास्त अन्नद्रव्ये घेणाऱ्या पिकानंतर जमीन सुधारक पीक घेण्याचे तत्त्व सांगते. योग्य क्रम स्थानिक माती, पाणी, हंगाम आणि कीड प्रादुर्भावावर अवलंबून असतो.",
+    "source": "TNAU Crop Selection and Rotation",
+    "source_url": "https://agritech.tnau.ac.in/agriculture/agri_cropselect.html"
+  },
+  {
+    "id": 37,
+    "category": "Biofertilizers",
+    "language": "English",
+    "question": "What are biofertilizers used for?",
+    "answer": "TNAU describes different biofertilizers for different crop groups, including Rhizobium for legumes and Azospirillum or Azotobacter for non-legume crops. Select the inoculant for the crop and follow its label and local advice.",
+    "source": "TNAU Organic Farming FAQ",
+    "source_url": "https://agritech.tnau.ac.in/ta/org_farm/orgfarm_faq%27s.html"
+  },
+  {
+    "id": 38,
+    "category": "Biofertilizers",
+    "language": "Hindi",
+    "question": "जैव उर्वरकों का उपयोग किसलिए किया जाता है?",
+    "answer": "तमिलनाडु कृषि विश्वविद्यालय अलग-अलग फसल समूहों के लिए अलग जैव उर्वरक बताता है, जैसे दलहनी फसलों के लिए राइजोबियम और गैर-दलहनी फसलों के लिए एजोटोस्पिरिलम या एजोटोबैक्टर। फसल के अनुसार उत्पाद चुनें और लेबल तथा स्थानीय सलाह का पालन करें।",
+    "source": "TNAU Organic Farming FAQ",
+    "source_url": "https://agritech.tnau.ac.in/ta/org_farm/orgfarm_faq%27s.html"
+  },
+  {
+    "id": 39,
+    "category": "Biofertilizers",
+    "language": "Marathi",
+    "question": "जैवखते कशासाठी वापरतात?",
+    "answer": "तामिळनाडू कृषी विद्यापीठ वेगवेगळ्या पीक गटांसाठी वेगवेगळी जैवखते सांगते; उदाहरणार्थ कडधान्यांसाठी रायझोबियम आणि बिगर-कडधान्य पिकांसाठी अॅझोटोस्पिरिलम किंवा अॅझोटोबॅक्टर. पिकानुसार उत्पादन निवडा आणि लेबल व स्थानिक सूचनांचे पालन करा.",
+    "source": "TNAU Organic Farming FAQ",
+    "source_url": "https://agritech.tnau.ac.in/ta/org_farm/orgfarm_faq%27s.html"
+  },
+  {
+    "id": 40,
+    "category": "Crop Insurance",
+    "language": "English",
+    "question": "What is the purpose of PMFBY?",
+    "answer": "The Pradhan Mantri Fasal Bima Yojana aims to provide financial support to farmers who suffer crop loss or damage due to specified unforeseen events and to help stabilize farm income. Coverage and deadlines depend on notified crops and areas.",
+    "source": "PMFBY Official FAQ",
+    "source_url": "https://pmfby.gov.in/faq"
+  },
+  {
+    "id": 41,
+    "category": "Crop Insurance",
+    "language": "Hindi",
+    "question": "PMFBY का उद्देश्य क्या है?",
+    "answer": "प्रधानमंत्री फसल बीमा योजना का उद्देश्य निर्दिष्ट अप्रत्याशित घटनाओं से फसल का नुकसान होने पर किसानों को वित्तीय सहायता देना और कृषि आय को स्थिर रखने में मदद करना है। बीमा कवरेज और अंतिम तिथियां अधिसूचित फसलों और क्षेत्रों पर निर्भर करती हैं।",
+    "source": "PMFBY Official FAQ",
+    "source_url": "https://pmfby.gov.in/faq"
+  },
+  {
+    "id": 42,
+    "category": "Crop Insurance",
+    "language": "Marathi",
+    "question": "PMFBY योजनेचा उद्देश काय आहे?",
+    "answer": "प्रधानमंत्री पीक विमा योजनेचा उद्देश अधिसूचित अनपेक्षित घटनांमुळे पीक नुकसान झाल्यास शेतकऱ्यांना आर्थिक मदत देणे आणि शेतीचे उत्पन्न स्थिर ठेवण्यास मदत करणे हा आहे. विमा संरक्षण आणि अंतिम तारखा अधिसूचित पिके व क्षेत्रांवर अवलंबून असतात.",
+    "source": "PMFBY Official FAQ",
+    "source_url": "https://pmfby.gov.in/faq"
+  },
+  {
+    "id": 43,
+    "category": "Crop Insurance",
+    "language": "English",
+    "question": "What should a farmer do after crop loss?",
+    "answer": "Report the loss promptly through the current PMFBY process and check the applicable notification, policy conditions and reporting deadline for the insured crop and area. The official portal provides farmer services and the Krishi Rakshak helpline 14447.",
+    "source": "PMFBY Farmer Portal",
+    "source_url": "https://pmfby.gov.in/policyclaim/farmer"
+  },
+  {
+    "id": 44,
+    "category": "Crop Insurance",
+    "language": "Hindi",
+    "question": "फसल नुकसान होने पर किसान को क्या करना चाहिए?",
+    "answer": "फसल नुकसान होने पर वर्तमान PMFBY प्रक्रिया के अनुसार तुरंत सूचना दें और बीमित फसल तथा क्षेत्र के लिए लागू अधिसूचना, पॉलिसी शर्तें और सूचना देने की समय-सीमा जांचें। आधिकारिक पोर्टल पर किसान सेवाएं और कृषि रक्षक हेल्पलाइन 14447 उपलब्ध है।",
+    "source": "PMFBY Farmer Portal",
+    "source_url": "https://pmfby.gov.in/policyclaim/farmer"
+  },
+  {
+    "id": 45,
+    "category": "Crop Insurance",
+    "language": "Marathi",
+    "question": "पीक नुकसान झाल्यास शेतकऱ्याने काय करावे?",
+    "answer": "पीक नुकसान झाल्यास सध्याच्या PMFBY प्रक्रियेनुसार त्वरित कळवा आणि विमा घेतलेल्या पिकासाठी व क्षेत्रासाठी लागू अधिसूचना, पॉलिसीच्या अटी आणि कळवण्याची मुदत तपासा. अधिकृत पोर्टलवर शेतकरी सेवा आणि कृषी रक्षक हेल्पलाइन 14447 उपलब्ध आहे.",
+    "source": "PMFBY Farmer Portal",
+    "source_url": "https://pmfby.gov.in/policyclaim/farmer"
+  },
+  {
+    "id": 46,
+    "category": "Weather",
+    "language": "English",
+    "question": "Why should farmers check weather forecasts?",
+    "answer": "Weather forecasts help farmers plan field operations such as irrigation, fertilizer application and harvesting. Check updated local forecasts and avoid relying on a general forecast alone for field-level decisions.",
+    "source": "General agricultural planning guidance; verify with local weather service",
+    "source_url": "https://mausam.imd.gov.in/"
+  },
+  {
+    "id": 47,
+    "category": "Weather",
+    "language": "Hindi",
+    "question": "किसानों को मौसम का पूर्वानुमान क्यों देखना चाहिए?",
+    "answer": "मौसम का पूर्वानुमान किसानों को सिंचाई, उर्वरक डालने और कटाई जैसे खेत के कामों की योजना बनाने में मदद करता है। अद्यतन स्थानीय पूर्वानुमान देखें और खेत के निर्णयों के लिए केवल सामान्य पूर्वानुमान पर निर्भर न रहें।",
+    "source": "General agricultural planning guidance; verify with local weather service",
+    "source_url": "https://mausam.imd.gov.in/"
+  },
+  {
+    "id": 48,
+    "category": "Weather",
+    "language": "Marathi",
+    "question": "शेतकऱ्यांनी हवामानाचा अंदाज का पाहावा?",
+    "answer": "हवामानाचा अंदाज शेतकऱ्यांना सिंचन, खत देणे आणि कापणी यांसारख्या शेतीकामांचे नियोजन करण्यास मदत करतो. अद्ययावत स्थानिक अंदाज पाहा आणि शेतातील निर्णयांसाठी केवळ सर्वसाधारण अंदाजावर अवलंबून राहू नका.",
+    "source": "General agricultural planning guidance; verify with local weather service",
+    "source_url": "https://mausam.imd.gov.in/"
+  }
+]
