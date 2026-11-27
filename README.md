@@ -303,3 +303,27 @@ We acknowledge the institutional agricultural resources and API providers whose 
 - CEDA Agmarknet
 
 We also acknowledge the open-source Python libraries and tools used in developing this application.
+
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Agricultural Assistant
+![Agricultural Assistant](screenshots/assistant.png)
+
+### Voice Interaction
+![Voice Interaction](screenshots/voice_interaction1.png)
+![Voice Interaction](screenshots/voice_interaction2.png)
+
+### Weather Information
+![Weather Information](screenshots/weather.png)
+
+### Mandi Prices
+![Mandi Prices](screenshots/mandi_prices.png)
+
+### Government Schemes
+![Government Schemes](screenshots/schemes.png)
+
+### Crop Guidance
+![Crop Guidance](screenshots/crop_guidance.png)
